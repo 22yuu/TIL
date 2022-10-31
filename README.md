@@ -8,9 +8,11 @@
 
 ### Categories
 
+* [JavaScript](#javascript)
 * [React](#react)
 
 ---
+### JavaScript
 
 ### React
 
