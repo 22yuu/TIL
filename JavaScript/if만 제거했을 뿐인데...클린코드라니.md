@@ -119,16 +119,16 @@ const paymentMap = {
 		payOnKakao();
 	},
 	NAVER_PAYMENT() {
-		payOnKakao();
+		payOnNaver();
 	},
 	COUPANG_PAYMENT() {
-		payOnKakao();
+		payOnCoupang();
 	},
 	PAYCO_PAYMENT() {
-		payOnKakao();
+		payOnPayco();
 	},
 	APPLE_PAYMENT() {
-		payOnKakao();
+		payOnApple();
 	}
 }
 
