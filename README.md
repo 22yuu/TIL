@@ -13,8 +13,7 @@
 
 ---
 ### JavaScript
-* [if만 제거했을 뿐인데...클린코드라니]()
+* [Builder Pattern](https://github.com/22yuu/TIL/blob/main/JavaScript/Builder%20Pattern.md)
+* [if만 제거했을 뿐인데...클린코드라니](https://github.com/22yuu/TIL/blob/main/JavaScript/if%EB%A7%8C%20%EC%A0%9C%EA%B1%B0%ED%96%88%EC%9D%84%20%EB%BF%90%EC%9D%B8%EB%8D%B0...%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%EB%9D%BC%EB%8B%88.md)
 
 ### React
-
-* [리액트를 다루는 기술](https://github.com/22yuu/TIL/tree/main/%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EA%B8%B0%EC%88%A0)
