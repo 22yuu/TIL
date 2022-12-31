@@ -10,6 +10,7 @@
 
 * [JavaScript](#javascript)
 * [React](#react)
+* [디자인패턴]
 
 ---
 ### JavaScript
