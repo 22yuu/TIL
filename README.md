@@ -16,5 +16,3 @@
 * [if만 제거했을 뿐인데...클린코드라니]()
 
 ### React
-
-* [리액트를 다루는 기술](https://github.com/22yuu/TIL/tree/main/%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC%20%EB%8B%A4%EB%A3%A8%EB%8A%94%20%EA%B8%B0%EC%88%A0)
