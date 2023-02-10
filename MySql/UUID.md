@@ -1,6 +1,6 @@
 MySql에서 고유한 아이디 값을 생성하는 방법 
 
-UUID()를 사용하기 위해선 UniqueIdentifier의 길이가 38자이므로 CAR(38) 유형의 필드를 만들어 사용해야 한다.
+`UUID()`를 사용하기 위해선 UniqueIdentifier의 길이가 38자이므로 `CAR(38)` 유형의 필드를 만들어 사용해야 한다.
 
 
 ```SQL
