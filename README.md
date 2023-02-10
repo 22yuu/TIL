@@ -10,9 +10,12 @@
 
 * [JavaScript](#javascript)
 * [React](#react)
+* [디자인패턴]
+* [C# WPF .NETFRAME]
 
 ---
 ### JavaScript
-* [if만 제거했을 뿐인데...클린코드라니]()
+* [Builder Pattern](https://github.com/22yuu/TIL/blob/main/JavaScript/Builder%20Pattern.md)
+* [if만 제거했을 뿐인데...클린코드라니](https://github.com/22yuu/TIL/blob/main/JavaScript/if%EB%A7%8C%20%EC%A0%9C%EA%B1%B0%ED%96%88%EC%9D%84%20%EB%BF%90%EC%9D%B8%EB%8D%B0...%ED%81%B4%EB%A6%B0%EC%BD%94%EB%93%9C%EB%9D%BC%EB%8B%88.md)
 
 ### React
